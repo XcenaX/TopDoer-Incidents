@@ -1,7 +1,9 @@
 # TopDoer-Incidents
 
+```bash
 git clone https://github.com/XcenaX/TopDoer-Incidents.git
 cd TopDoer-Incidents
+```
 
 ```bash
 source .venv/bin/activate
